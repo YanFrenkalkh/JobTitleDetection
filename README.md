@@ -44,3 +44,6 @@ This project relies on the following Python libraries:
 
 ## Installation
 *    Python 3.11 was used to create the project
+
+# Link To see the full project
+* https://nbviewer.org/github/YanFrenkalkh/JobTitleDetection/blob/main/EDA_%26_DataScience_job_Prediction.html
