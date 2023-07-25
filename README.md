@@ -1,5 +1,5 @@
 # JobTitleDetection
-In this project i will prosses jobes data set frome Kaggel and will try to detect ho is a data scientist.
+In this project, I will process a job dataset from Kaggle and attempt to detect data scientists.
 
 # Author:
 *    Yan Frenklakh
