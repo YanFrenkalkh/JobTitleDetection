@@ -4,7 +4,7 @@ In this project i will prosses jobes data set frome Kaggel and will try to detec
 # Authors:
 *    Yan Frenklakh
 
-#Libraries Used
+# Libraries Used
 This project relies on the following Python libraries:
 
 	1. pandas: This library provides data manipulation and analysis tools.
